@@ -167,38 +167,7 @@ The product aims for:
 - collectible ticket-card energy
 - subtle motion, not noisy motion
 
-It intentionally avoids:
-
-- generic sports dashboards
-- betting app aesthetics
-- dark neon "crypto" UI
-- ESPN/FIFA clone behavior
-
-## Current limitations
-
-This is still a focused product slice, not the full platform.
-
-Not in this version yet:
-
-- auth
-- backend persistence
-- desktop-first layouts
-- full team pages
-- real multi-page filtering system
-- full live match coverage UX
-- production deployment config
-
-## Notes for contributors
-
-- Keep the app mobile-first.
-- Respect the existing brand docs before changing UI direction.
-- Prefer calm editorial polish over feature noise.
-- Any score UI must always show both a number and a text label.
-- Reduced motion support is part of the product, not an optional extra.
 
 ## Credits
 
 Built by eybiwon (Abdelouahed).
-
-Follow the project on GitHub:
-[Abdelouahedb/vibescout-world-cup-2026](https://github.com/Abdelouahedb/vibescout-world-cup-2026)
