@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.playwright-cli/
+.env.local
+*.env.local
+*.tsbuildinfo
+dev-server*.log
+server*.log
+output/
+qa-screenshots/
