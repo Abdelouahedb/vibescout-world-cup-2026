@@ -329,5 +329,3 @@ Still to come:
 ## Credits
 
 Built by eybiwon (Abdelouahed).
-
-Repo: [Abdelouahedb/vibescout-world-cup-2026](https://github.com/Abdelouahedb/vibescout-world-cup-2026)
