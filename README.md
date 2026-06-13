@@ -14,6 +14,10 @@
   <strong>what is actually worth watching tonight?</strong>
 </p>
 
+<p align="center">
+  Live app: <a href="https://vibescout26.vercel.app/">vibescout26.vercel.app</a>
+</p>
+
 ---
 
 ## The pitch
@@ -156,6 +160,12 @@ FOOTBALL_DATA_API_TOKEN=your_token_here
 ```
 
 Without it, the app still runs, but the live merge becomes more fallback-driven.
+
+### Data source
+
+The live football data layer is built on data from [football-data.org](https://www.football-data.org/pricing).
+
+VibeScout uses that source for World Cup match updates and then layers its own editorial ranking, filtering, caching, and watchability logic on top.
 
 ### Why this matters
 
@@ -308,7 +318,6 @@ This is a serious product slice, but not the full platform yet.
 Still to come:
 
 - auth
-- backend persistence
 - team profile pages
 - richer live-match center UI
 - notifications
